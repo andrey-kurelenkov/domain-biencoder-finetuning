@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.npy
+scifact_train_triplets/
+output/
+checkpoints/
